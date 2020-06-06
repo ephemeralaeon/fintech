@@ -18,19 +18,19 @@ Element AI is founded in 2016, Element AI develops artificial intelligence (AI) 
 <br/>
 <br/>
 * Yoshua Bengio: Co-Founder and Deep Learning Pioneer (2016-Present).  
-   * Previous Professional Experience:  
-     * Founder, MILA (2016-Present); Full Professor, Universite de Montreal (1993-Present) Education: B.Eng. (1986), Electrical Engineering, M.Sc. (1988), PhD (1991), Computer Science, McGill University.
-   * Personal Brief: 
-     * Since 1993, he has been a professor in the Department of Computer Science and Operational Research at the Université de Montréal. In addition to holding the Canada Research Chair in Statistical Learning Algorithms, he is the founder and scientific director of Mila, the Quebec Institute of Artificial Intelligence, the world’s largest university-based research group in deep learning. His contribution to research is undeniable. In 2018, Yoshua Bengio ranked as the most cited computer scientist worldwide, thanks to his many publications. In 2019, he received the ACM A.M. Turing Award, “the Nobel Prize of Computing”, jointly with Geoffrey Hinton and Yann LeCun for conceptual and engineering breakthroughs that have made deep neural networks a critical component of computing.
-     * Website: https://yoshuabengio.org/  
+  * Previous Professional Experience:  
+    * Founder, MILA (2016-Present); Full Professor, Universite de Montreal (1993-Present) Education: B.Eng. (1986), Electrical Engineering, M.Sc. (1988), PhD (1991), Computer Science, McGill University.
+  * Personal Brief: 
+    * Since 1993, he has been a professor in the Department of Computer Science and Operational Research at the Université de Montréal. In addition to holding the Canada Research Chair in Statistical Learning Algorithms, he is the founder and scientific director of Mila, the Quebec Institute of Artificial Intelligence, the world’s largest university-based research group in deep learning. His contribution to research is undeniable. In 2018, Yoshua Bengio ranked as the most cited computer scientist worldwide, thanks to his many publications. In 2019, he received the ACM A.M. Turing Award, “the Nobel Prize of Computing”, jointly with Geoffrey Hinton and Yann LeCun for conceptual and engineering breakthroughs that have made deep neural networks a critical component of computing.
+    * Website: https://yoshuabengio.org/  
 <br/>
 <br/>
             
 * Nicolas Chapados: Co-Founder and Chief Science Officer (2016-Present).
-   * Previous Professional Experience: 
-        * Co-Founder and CSO, Imagia Cybernetics (2015-Present); Co-Founder, Chapados Couture Capital (2013-Present); Consultant, JDA Software (2013-2016); Consultant, Desjardins Global Asset Management (2004-2008); Education: B.Eng. (1995), McGill University; M.Sc. (2000), PhD (2009), Computer Science, Universite de Montreal.
-   * Personal Brief: 
-        * Nicolas Chapados holds an engineering degree from McGill University and a PhD in Computer Science from University of Montreal, Canada. While still writing his thesis and jointly with his advisor Yoshua Bengio, he co-founded ApSTAT Technologies in 2001, a machine learning technology transfer firm, to apply cutting-edge academic research ideas to areas such as insurance risk evaluation, supply chain planning, business forecasting, national defence, and hedge fund management. From this work, he also co-founded spin-off companies: Imagia (www.imagia.com), to detect and quantify cancer early with AI analysis of medical images, Element AI (www.elementai.com), an applied research lab in artificial intelligence with a systematic process to connect fundamental innovations with commercial applications, and Chapados Couture Capital (www.chapados-couture.com), a quantitative asset manager. He holds the Chartered Financial Analyst (CFA) designation.  
+  * Previous Professional Experience: 
+    * Co-Founder and CSO, Imagia Cybernetics (2015-Present); Co-Founder, Chapados Couture Capital (2013-Present); Consultant, JDA Software (2013-2016); Consultant, Desjardins Global Asset Management (2004-2008); Education: B.Eng. (1995), McGill University; M.Sc. (2000), PhD (2009), Computer Science, Universite de Montreal.
+  * Personal Brief: 
+    * Nicolas Chapados holds an engineering degree from McGill University and a PhD in Computer Science from University of Montreal, Canada. While still writing his thesis and jointly with his advisor Yoshua Bengio, he co-founded ApSTAT Technologies in 2001, a machine learning technology transfer firm, to apply cutting-edge academic research ideas to areas such as insurance risk evaluation, supply chain planning, business forecasting, national defence, and hedge fund management. From this work, he also co-founded spin-off companies: Imagia (www.imagia.com), to detect and quantify cancer early with AI analysis of medical images, Element AI (www.elementai.com), an applied research lab in artificial intelligence with a systematic process to connect fundamental innovations with commercial applications, and Chapados Couture Capital (www.chapados-couture.com), a quantitative asset manager. He holds the Chartered Financial Analyst (CFA) designation.  
 <br/>
 <br/>
            
@@ -42,14 +42,14 @@ Element AI is founded in 2016, Element AI develops artificial intelligence (AI) 
 <br/>
 <br/>
 * Roger Blanchette: CFO (2020.5-Present).
-    * Previous Professional Experience: 
-        * Roger was CFO and SVP at Skyword (2019-2020); CFO and SVP at NuoDB (2015-2019)
-    * Personal Brief: 
-        * Strategic CFO providing strong financial leadership while significantly contributing to the definition and execution of the corporate strategy. Ability to function both at a strategic and tactical level: recognized business partner by the CEO, the senior management team and the Board of Directors. Proven record of building and managing highly effective and efficient finance, human resources, IT & administrative operations. Creative business problem solver. Experienced in managing growth of technology companies. Significant expertise in exit strategies: ability to effectively manage the M&A or all steps of the "going public" process: prepare the company for the IPO (finance, accounting, legal), prepare the SEC filings, select the investment bankers, manage the road show, meet potential investors.Specific accomplishments include:
-            * Raised over 100 million dollars from venture capital firms, private equity firms, and lenders
-            * Completed close to 400 million dollars in 6 M&A transactions, as a buyer and seller, resulting in significant investors returns
-            * Transformed finance and HR department into world-class organizations
-            * Put in place the infrastructure (people, systems, processes, controls) in expectation of significant growth   
+  * Previous Professional Experience: 
+     * Roger was CFO and SVP at Skyword (2019-2020); CFO and SVP at NuoDB (2015-2019)
+  * Personal Brief: 
+     * Strategic CFO providing strong financial leadership while significantly contributing to the definition and execution of the corporate strategy. Ability to function both at a strategic and tactical level: recognized business partner by the CEO, the senior management team and the Board of Directors. Proven record of building and managing highly effective and efficient finance, human resources, IT & administrative operations. Creative business problem solver. Experienced in managing growth of technology companies. Significant expertise in exit strategies: ability to effectively manage the M&A or all steps of the "going public" process: prepare the company for the IPO (finance, accounting, legal), prepare the SEC filings, select the investment bankers, manage the road show, meet potential investors.Specific accomplishments include:
+        * Raised over 100 million dollars from venture capital firms, private equity firms, and lenders
+        * Completed close to 400 million dollars in 6 M&A transactions, as a buyer and seller, resulting in significant investors returns
+        * Transformed finance and HR department into world-class organizations
+        * Put in place the infrastructure (people, systems, processes, controls) in expectation of significant growth   
 <br/>
 <br/> 
 * Stephan Rioux: CRO (2020.5-Present).
