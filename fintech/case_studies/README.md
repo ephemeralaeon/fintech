@@ -10,6 +10,7 @@ Element AI is founded in 2016, Element AI develops artificial intelligence (AI) 
 ### Funding Process and Major Investors:
 
 ### Founders and C-Level Officers:
+
 * Jean-François Gagné: Co-Founder, and CEO (2016-Present).
   * Previously Experience: 
     * Chief Product Officer, JDA Software (2012-2015);Product Manager and CEO, Planora (2007-2012); Product Manager, Logiweb (2002-2007).  
@@ -17,12 +18,14 @@ Element AI is founded in 2016, Element AI develops artificial intelligence (AI) 
     *  Jean-François is a veteran AI entrepreneur, He has been in this field since 2001. Beside running his own companies he also was the former Chief Product Officer and Chief Innovation Officer at JDA Software, where he was the youngest global C-Level Executive of a top-20 Enterprise Software company.<br/>
 <br/>
 <br/>
+
 * Yoshua Bengio: Co-Founder and Deep Learning Pioneer (2016-Present).  
   * Previous Professional Experience:  
     * Founder, MILA (2016-Present); Full Professor, Universite de Montreal (1993-Present) Education: B.Eng. (1986), Electrical Engineering, M.Sc. (1988), PhD (1991), Computer Science, McGill University.
   * Personal Brief: 
     * Since 1993, he has been a professor in the Department of Computer Science and Operational Research at the Université de Montréal. In addition to holding the Canada Research Chair in Statistical Learning Algorithms, he is the founder and scientific director of Mila, the Quebec Institute of Artificial Intelligence, the world’s largest university-based research group in deep learning. His contribution to research is undeniable. In 2018, Yoshua Bengio ranked as the most cited computer scientist worldwide, thanks to his many publications. In 2019, he received the ACM A.M. Turing Award, “the Nobel Prize of Computing”, jointly with Geoffrey Hinton and Yann LeCun for conceptual and engineering breakthroughs that have made deep neural networks a critical component of computing.
     * Website: https://yoshuabengio.org/  
+    
 <br/>
 <br/>
             
@@ -41,6 +44,7 @@ Element AI is founded in 2016, Element AI develops artificial intelligence (AI) 
      * Entrepreneur, Old Millennial, Art Lover, and Co-Founder of Element AI  
 <br/>
 <br/>
+
 * Roger Blanchette: CFO (2020.5-Present).
   * Previous Professional Experience: 
      * Roger was CFO and SVP at Skyword (2019-2020); CFO and SVP at NuoDB (2015-2019)
@@ -52,6 +56,7 @@ Element AI is founded in 2016, Element AI develops artificial intelligence (AI) 
         * Put in place the infrastructure (people, systems, processes, controls) in expectation of significant growth   
 <br/>
 <br/> 
+
 * Stephan Rioux: CRO (2020.5-Present).
   * Previous Professional Experience: 
      * Previously: Owner and Director, Genie Audio (2009-2015); HR, May & Stephens (2003-2006) Education: BComm (2011), Concordia University; MBA (2018) Kellogg School of Management.
