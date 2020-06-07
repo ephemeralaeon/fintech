@@ -79,14 +79,47 @@ When Element Ai founded in december 12 2016, M12 is its lead investor. The amoun
 ## Business Activities:
 
 
+### Products and Services
 
-* What specific financial problem is the company or project trying to solve?
+As the industry landscape evolves, insurance service providers need access to solutions that are both built with their industry’s unique challenges in mind and capable of adapting to their processes and business objectives in order to remain profitable and deliver on ever-changing customer expectations.
 
-* Who is the company's intended customer?  Is there any information about the market size of this set of customers?
+* Product: EAI OS for Insurance
 
-* What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
+    * The Element AI OS for Insurance offers a broad range of modular, insurance-specific AI capabilities and assets that can be assembled into solutions to tackle challenges across the insurance value chain. Built to enable the quick and efficient deployment of AI solutions, the Element AI OS for Insurance empowers insurance service providers at every step in their AI adoption journey⁠—whether that means giving in-house AI teams the tools they need to build state-of-the-art solutions or deploying tried-and-tested, off-the-shelf capabilities that do not require internal AI expertise.
+    
+    * Increase straight-through processing for claims
+    
+        * AI capabilities, deployed through the Element AI OS for Insurance, can be applied across the claims lifecycle. Upon receiving an FNOL or FNOI, for example, Document Entity Extraction is leveraged to more rapidly and accurately process the data contained in the supporting documents. For complex claim adjudication, the Decision Engine is applied to provide adjusters with recommendations suggesting the best course of action. The modular nature of our capabilities gives insurers the flexibility to apply AI to the areas of the claims process that will deliver the most ROI for their business.
+        
+    * Optimize underwriting processes and increase throughput
+    
+        * Insurance service providers looking to get more out of their teams and increase submission throughput can leverage AI capabilities, such as Ensemble Models, which enable insurers to automatically decline submissions for businesses outside of their risk appetite, and Recommender Systems that provide underwriters with intelligent, data-driven coverage recommendations.
+        
+    * Achieve market-differentiating pricing sophistication
+        * Many countries are rightly trending toward requiring companies to provide explanations of any automated decision that impacts an individual person. Leveraging our Explainability capability, insurance service providers can deploy AI-powered pricing algorithms that contribute to the compliance with these new filing and regulatory requirements
+    
+* Customer: EAI OS for Insurance
 
-* Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
+* Marketsize: Global Insurtech Market revenue is valued at 5.48 billion in 2019 and is expected to reach 10.14 billion by 2025, growing at a CAGR of 10.80% during the period 2019-2025. The insurance industry with global premiums exceeding US 4.9 trillion dollars in 2017, is one of the most complex businesses around. Although late, the industry now appears to be at a key inflection point with many experts viewing the digitization of insurance as the next big opportunity after FinTech.
+
+### Tecnologies
+* Technologies
+    * Optical Character Recognitiomn: Instantly transcribe text from natural environments or digital documents, reducing manual work and enabling automatic workflows.
+
+    * Time Series Forecasting: Best-in-class AI-powered forecasting provides better accuracy and can deliver lift for a wide range of forecasting scenarios, across multiple industries.
+    
+    * Object Detection and Counting: Robust detection, counting and tracking of objects and people in a wide variety of environments, enabling valuable workflows in many real-world situations.
+    
+    * Optimization: AI-powered optimization boosts the efficiency of business processes and tasks, maximizing lift and ROI compared to traditional optimization methods.
+    
+    * Explainability: Making your AI explainable to users helps drive adoption and lowers the barrier of entry for users.
+    
+    * Recommender System: Use past data and actions to recommend the best choices to users in complex situations, driving better and faster decision-making in a workflow-specific context.
+    
+    * Anomaly Detection: Detect anomalies on objects in natural environments and in various types of data, such as logs, video feeds and sales data, allowing for real-time reaction to these events.
+    
+    * Text Extraction and Analysis: Accelerate the work of extracting insights from multiple forms of textual data and catch signals that are easily overlooked by humans with techniques such as sentiment analysis and text summarization.
+    
 
 ## Landscape:
 
@@ -109,15 +142,15 @@ Overall target words, artificial intelligence, new talents, investor-like vision
     
 * The Machine
 
-    * These companies build a full range of artificial intelligence systems. Just like the super technology companies we often see in science fiction movies, they have strong strengths that can make the impossible possible. Now, technology giants like Amazon, Google, Facebook, Apple and Baidu are very close to this concept. They are constantly improving the solutions of artificial intelligence systems (distributed, centralized, local or cloud), infiltrating every device of users. They are doing everything for us, providing us with various suggestions, just like "Skynet" described in the movie "Terminator".
+    * These companies build a full range of artificial intelligence systems. Just like the super technology companies we often see in science fiction movies, they have strong strengths that can make the impossible possible. Now, technology giants like Amazon, Google, Facebook, Apple and Baidu are very close to this concept. They are constantly improving the solutions of artificial intelligence systems (distributed, centralized, local or cloud), infiltrating every device of users. They are doing everything for us, providing us with various suggestions, just like "Skynet" described in the movie "Terminator".<br/><br/> 
 
 ## Results
 
-* What has been the business impact of this company so far?
+### Impact
 
-* What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
+The presence of the forerunner not only means that there is the experience for reference, but also that Element AI is facing strong competitive pressure from its Silicon Valley rivals. But if you look at the various cities and markets, you will find that Montreal is becoming the center of artificial intelligence in North America. This Canadian city is indeed shaking the position of Silicon Valley, gathering more and more startups and capital. At the same time, the Toronto-Waterloo area in Canada is also fighting for the same position. No matter which city wins in the end, the purpose of Canadians becoming the world's leading country in artificial intelligence will become a reality. At present, Element AI plans to open a new branch in Toronto, which will be their second office. The company has regarded the two cities as the same market.
 
-* How is your company performing relative to competitors in the same domain?
+If you lead a team of 20 PhDs in Silicon Valley, you will soon receive 5 million dollars in the financing, which is considered a natural thing; however, in Canada, things have not developed to this point. Startups are underestimated. Nevertheless, there are many innovative technology companies in Toronto, such as Kindred, which builds humanoid robots, Layer6.ai, which provides personalized deep learning recommendation systems, etc. In addition, there are dozens of small companies with great growth potential.
 
 ## Recommendations
 
@@ -134,6 +167,8 @@ Overall target words, artificial intelligence, new talents, investor-like vision
 * Element AI website: www.elementai.com
 * Investors: https://www.crunchbase.com/organization/element-ai
 * Ivey Business Case research: https://www.ivey.uwo.ca/scotiabank-digital-banking-lab/canada-fintech/infrastructure-services/element-ai/
+* Technologies: https://www.elementai.com/products/api
+* Market and Products: https://www.elementai.com/industries/insurance
 * Jean-François Gagné LinkedIn： https://www.linkedin.com/in/jfgagne/
 * Bengio Personal Website: https://yoshuabengio.org/
 * Nicolas Chapados LinkedIn page: https://www.linkedin.com/in/nicolaschapados/
@@ -142,3 +177,4 @@ Overall target words, artificial intelligence, new talents, investor-like vision
 * Stephan Rioux LinkedIn page: https://www.linkedin.com/in/stephanrioux/
 * Updated Funding report for EAI: https://venturebeat.com/2019/09/13/element-ai-raises-151-million-to-bring-ai-to-more-enterprises/
 * EAI New CxO: https://www.elementai.com/press-room/element-ai-announces-new-chief-financial-officer-and-chief-revenue-officer
+* Insurence tech forecasting: https://www.businesswire.com/news/home/20200416005759/en/Global-Insurtech-Market-2020-2025---Growth
