@@ -4,13 +4,24 @@
 ## Overview and Origin
 
 Element AI is founded in 2016, Element AI develops artificial intelligence (AI) business applications for large corporations through an innovative AI-as-a-service (AIaaS) model. Element AI leverages its expertise in deep learning to help their enterprise customers use AI to achieve their business strategies. Element AI performs and partners with academic research on AI and deep learning, and incubates AI projects.  
+<br/>
+<br/>
 
 ### Founding Story:
 
+> "There's a war for talent going on and most companies are being out-gunned by the tech giants leaving traditional organizations defenseless," said Element AI Co-Founder and CEO Jean-Francois Gagne.  Jean Francois continued, "Our mission is to bring entrepreneurs and academics together and help them incubate advanced AI-First solutions."<br/><br/>
+"We strongly believe in the promise of Element AI because of the stellar founding team, the opportunity they've identified and their demonstrated ability to achieve ground-breaking innovation in a critical space that is shaping our future," said Element AI Co-Founder and Real Ventures Partner Jean-Sébastien Cournoyer. Mr. Cournoyer continued, "Element's "AI research lab as a service" model, combined with its product development capabilities, have the potential to level the playing field in AI and provide Element partners with the ability to succeed in their respective markets."
+
+<br/>
+<br/>
+
 ### Funding Process and Major Investors:
+When Element Ai founded in december 12 2016, M12 is its lead investor. The amount of money raised is undisclosed. In 2017, Element AI started its Series A fund raising. This time, leading by Data Collective DCVC, companise raised 102 million dollars. The next year, 2018, Canadian Government started to inivest foor 5 million dollars as Debt Financing. Last year, Element Ai is in it's round B funding. This time, they successfully raised 200 million dollars by Caisse de Depot et Placement du Quebec. As the company  hired CFO and CRO this year, Element Ai is planning for its IPO in the near future.
+
+<br/>
+<br/>
 
 ### Founders and C-Level Officers:
-
 * Jean-François Gagné: Co-Founder, and CEO (2016-Present).
   * Previously Experience: 
     * Chief Product Officer, JDA Software (2012-2015);Product Manager and CEO, Planora (2007-2012); Product Manager, Logiweb (2002-2007).  
@@ -25,7 +36,6 @@ Element AI is founded in 2016, Element AI develops artificial intelligence (AI) 
   * Personal Brief: 
     * Since 1993, he has been a professor in the Department of Computer Science and Operational Research at the Université de Montréal. In addition to holding the Canada Research Chair in Statistical Learning Algorithms, he is the founder and scientific director of Mila, the Quebec Institute of Artificial Intelligence, the world’s largest university-based research group in deep learning. His contribution to research is undeniable. In 2018, Yoshua Bengio ranked as the most cited computer scientist worldwide, thanks to his many publications. In 2019, he received the ACM A.M. Turing Award, “the Nobel Prize of Computing”, jointly with Geoffrey Hinton and Yann LeCun for conceptual and engineering breakthroughs that have made deep neural networks a critical component of computing.
     * Website: https://yoshuabengio.org/  
-    
 <br/>
 <br/>
             
@@ -50,10 +60,10 @@ Element AI is founded in 2016, Element AI develops artificial intelligence (AI) 
      * Roger was CFO and SVP at Skyword (2019-2020); CFO and SVP at NuoDB (2015-2019)
   * Personal Brief: 
      * Strategic CFO providing strong financial leadership while significantly contributing to the definition and execution of the corporate strategy. Ability to function both at a strategic and tactical level: recognized business partner by the CEO, the senior management team and the Board of Directors. Proven record of building and managing highly effective and efficient finance, human resources, IT & administrative operations. Creative business problem solver. Experienced in managing growth of technology companies. Significant expertise in exit strategies: ability to effectively manage the M&A or all steps of the "going public" process: prepare the company for the IPO (finance, accounting, legal), prepare the SEC filings, select the investment bankers, manage the road show, meet potential investors.Specific accomplishments include:
-        * Raised over 100 million dollars from venture capital firms, private equity firms, and lenders
-        * Completed close to 400 million dollars in 6 M&A transactions, as a buyer and seller, resulting in significant investors returns
-        * Transformed finance and HR department into world-class organizations
-        * Put in place the infrastructure (people, systems, processes, controls) in expectation of significant growth   
+        * Raised over 100 million dollars from venture capital firms, private equity firms, and lenders.
+        * Completed close to 400 million dollars in 6 M&A transactions, as a buyer and seller, resulting in significant investors returns.
+        * Transformed finance and HR department into world-class organizations.
+        * Put in place the infrastructure (people, systems, processes, controls) in expectation of significant growth.
 <br/>
 <br/> 
 
@@ -68,6 +78,8 @@ Element AI is founded in 2016, Element AI develops artificial intelligence (AI) 
 
 ## Business Activities:
 
+
+
 * What specific financial problem is the company or project trying to solve?
 
 * Who is the company's intended customer?  Is there any information about the market size of this set of customers?
@@ -78,11 +90,26 @@ Element AI is founded in 2016, Element AI develops artificial intelligence (AI) 
 
 ## Landscape:
 
-* What domain of the financial industry is the company in?
 
-* What have been the major trends and innovations of this domain over the last 5-10 years?
+Overall target words, artificial intelligence, new talents, investor-like vision, but with the technological progress of the past year, Saraya Hitoya was born. Cournoyer Shoyo AI Co., Ltd. 3 types:
 
-* What are the other major companies in this domain?
+* Applied Artificial Intelligence
+
+    * This represents most technology companies and artificial intelligence with artificial intelligence. Contrary to consumer metaphors, similar to the added meaning of AI, personalized special teapots. This is the most common company in the world.<br/><br/> 
+    
+* AI First
+
+    * Such companies promote business with technological upgrades, and in order to optimize their competitiveness, promote artificial intelligence to the top position. The AI First solution will change the way humans interact with software/machines, from passive relationships (we tell machines what to do) to point-to-point relationships (machines predict our needs and make recommendations when we interact with them), and ultimately form active relationships ( The machine tells us what/when/how to do based on a series of inputs and expected results).<br/><br/> 
+
+    * The first two types of companies can continuously train their own artificial intelligence algorithms through the use of customers to make AI smarter and thus provide better services. The products of these companies are different due to personalization. For example, the founders of Element AI have invested in Ross Intelligence, a company that provides users with artificial intelligence lawyer services.<br/><br/> 
+    
+    * Ross Intelligence belongs to the category of AI First, and they provide users with tools that can help lawyers work more efficiently. Among them, artificial intelligence plays a central role, and every lawyer who uses it will train the artificial intelligence system to investigate and judge the case. This will not only improve the efficiency of lawyers, but also allow artificial intelligence to continuously improve its own accuracy. As companies like Ross Intelligence grow, perhaps in the future, law firms may no longer need investigative assistants because artificial intelligence has taken over their work. <br/><br/> 
+    
+    * Another typical case is MindBridge, headquartered in Ottawa. One of the founders of this company was an early employee of IBM Watson. Their products can help auditors more easily detect potentially fraudulent transactions. When you enter data into their system, this tool can mark all suspected fraudulent areas, which are marked as red, yellow, or green, for auditors to carefully review and ultimately determine which are the real frauds. This process also allows artificial intelligence to learn continuously. The company estimates that in the future, human auditors will only need to spend five minutes on each transaction. Mindbridge has a longer-term vision: everything will be audited in real time, and if the system finds that there is a risk of fraud in a transaction, it will be warned in advance, which is a big step forward compared to the traceability of fraud. <br/><br/> 
+    
+* The Machine
+
+    * These companies build a full range of artificial intelligence systems. Just like the super technology companies we often see in science fiction movies, they have strong strengths that can make the impossible possible. Now, technology giants like Amazon, Google, Facebook, Apple and Baidu are very close to this concept. They are constantly improving the solutions of artificial intelligence systems (distributed, centralized, local or cloud), infiltrating every device of users. They are doing everything for us, providing us with various suggestions, just like "Skynet" described in the movie "Terminator".
 
 ## Results
 
@@ -105,6 +132,7 @@ Element AI is founded in 2016, Element AI develops artificial intelligence (AI) 
 ## References
 
 * Element AI website: www.elementai.com
+* Investors: https://www.crunchbase.com/organization/element-ai
 * Ivey Business Case research: https://www.ivey.uwo.ca/scotiabank-digital-banking-lab/canada-fintech/infrastructure-services/element-ai/
 * Jean-François Gagné LinkedIn： https://www.linkedin.com/in/jfgagne/
 * Bengio Personal Website: https://yoshuabengio.org/
