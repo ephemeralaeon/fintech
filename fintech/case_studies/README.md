@@ -314,22 +314,6 @@ If you lead a team of 20 PhDs in Silicon Valley, you will soon receive 5 million
 
 Firstly, I would recommend Element AI to add advisory bot to their product solutions. most customers of insurance needs a lot of consultation and computation from the insurance sales. However, with natual language processing technology, the role can be replaced by robots. Customers, besides purchasing commercial insurance, can have clearer view in life-time returns calculations. Secondly, I would recommend to adopt internet of things technologies in risk evaluation of persons. This will allow insurance company have more data to evaluate individual's risk preference which can assist more customized insurance plan and returns.
 
-## References
-
-* Element AI website: www.elementai.com
-* Investors: https://www.crunchbase.com/organization/element-ai
-* Ivey Business Case research: https://www.ivey.uwo.ca/scotiabank-digital-banking-lab/canada-fintech/infrastructure-services/element-ai/
-* Technologies: https://www.elementai.com/products/api
-* Market and Products: https://www.elementai.com/industries/insurance
-* Jean-François Gagné LinkedIn： https://www.linkedin.com/in/jfgagne/
-* Bengio Personal Website: https://yoshuabengio.org/
-* Nicolas Chapados LinkedIn page: https://www.linkedin.com/in/nicolaschapados/
-* Anne Martel LinkedIn page: https://www.linkedin.com/in/anne-martel-041603104/
-* Roger Blanchette LinkedIn page: https://www.linkedin.com/in/rogerblanchette/
-* Stephan Rioux LinkedIn page: https://www.linkedin.com/in/stephanrioux/
-* Updated Funding report for EAI: https://venturebeat.com/2019/09/13/element-ai-raises-151-million-to-bring-ai-to-more-enterprises/
-* EAI New CxO: https://www.elementai.com/press-room/element-ai-announces-new-chief-financial-officer-and-chief-revenue-officer
-* Insurence tech forecasting: https://www.businesswire.com/news/home/20200416005759/en/Global-Insurtech-Market-2020-2025---Growth
 
 ## References
 
